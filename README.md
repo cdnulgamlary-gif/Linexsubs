@@ -1,4 +1,4 @@
-#profile-title: VPN_Gold
+#profile-title:VPN_Gold
 #!name=VPN_Gold
 #profile-update-interval: 2
 #profile-web-page-url: https://t.me/VPN_GoldTm
